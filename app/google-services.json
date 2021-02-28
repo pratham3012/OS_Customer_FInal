@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194807537749",
+    "project_id": "optical-2-0-9",
+    "storage_bucket": "optical-2-0-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194807537749:android:1c4489b70a083b49ff34dc",
+        "android_client_info": {
+          "package_name": "mibtechn.ekart.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194807537749-q2lelncc0vhe9m04mno27vq9dcbb376b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mibtechn.ekart.shop",
+            "certificate_hash": "e8c284a209b8996e47702dbec1d864557949459a"
+          }
+        },
+        {
+          "client_id": "194807537749-6ujqe2b7v1rkc6v1gloarjls5vpndhom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QrYNI_EyZsBgcY8Y8Jvi_ZkO75fwXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194807537749-6ujqe2b7v1rkc6v1gloarjls5vpndhom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
